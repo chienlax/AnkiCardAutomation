@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>IELTS Anki Card Generator</title>
+    <style>
+        body { font-family: sans-serif; }
+        textarea { width: 100%; height: 200px; margin-bottom: 10px; }
+        input[type="text"] { width: 300px; margin-bottom: 10px; }
+        .flash-message { margin-bottom: 10px; padding: 10px; border-radius: 5px; }
+        .flash-success { background-color: #d4edda; border: 1px solid #c3e6cb; color: #155724; }
+        .flash-error { background-color: #f8d7da; border: 1px solid #f5c6cb; color: #721c24; }
+    </style>
+</head>
+<body>
+    <h1>IELTS Anki Card Generator</h1>
+
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        {% for category, message in messages %}
+          <div class="flash-message flash-{{ category }}">{{ message }}</div>
+        {% endfor %}
+      {% endif %}
+    {% endwith %}
+
+    <form method="post">
+        <div>
+            <label for="ielts_passage">IELTS Reading Passage Text:</label><br>
+            <textarea id="ielts_passage" name="ielts_passage"></textarea>
+        </div>
+        <div>
+            <label for="deck_name">Anki Deck Name (optional, default: IELTS Cambridge):</label><br>
+            <input type="text" id="deck_name" name="deck_name" placeholder="IELTS Cambridge">
+        </div>
+        <button type="submit">Generate Anki Cards</button>
+    </form>
+
+    <hr>
+    <p>This is a simple web app to analyze IELTS reading passages and generate Anki flashcards.</p>
+</body>
+</html>
