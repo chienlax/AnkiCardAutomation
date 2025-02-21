@@ -1,90 +1,297 @@
-Front: puzzled over
+Front: aligned with
 Back:
-Pronunciation: (US: /ˈpʌzəld ˈoʊvər/, UK: /ˈpʌzəld ˈəʊvə(r)/)
-Form: phrase (phrasal verb)
-Word Family: (v): puzzle: (to feel confused and slightly worried about something because you do not understand it) / (n): puzzle: (a game or toy in which you have to fit pieces together or answer questions correctly) / (adj): puzzling: (difficult to understand; confusing)
-English Meaning: to think about something difficult or confusing and try to understand it
-Vietnamese Meaning: băn khoăn, suy nghĩ mãi về điều gì đó khó hiểu
-Example Sentence: Historians have puzzled over the purpose of Stonehenge for centuries.
+Pronunciation: (US: /əˈlaɪnd wɪθ/, UK: /əˈlaɪnd wɪð/)
+Form: phrase (prepositional phrase)
+Word Family: (v): align: (to bring into agreement or cooperation) / (n): alignment: (the act of aligning; the state of being aligned)
+English Meaning: in agreement or harmony with; to be in support of the same goals or values as something else.
+Vietnamese Meaning: phù hợp với, đồng điệu với, thẳng hàng với
+Example Sentence: Our company's goals are closely aligned with the needs of our customers.
 ---
-Front: erect
+Front: astonishing feat
 Back:
-Pronunciation: (US: /ɪˈrɛkt/, UK: /ɪˈrekt/)
+Pronunciation: (US: /əˈstɑːnɪʃɪŋ fiːt/, UK: /əˈstɒnɪʃɪŋ fiːt/)
+Form: phrase (adjective + noun)
+Word Family: (v): astonish: (to surprise or impress greatly) / (n): astonishment: (great surprise or wonder) / (adj): astonishing: (very surprising or impressive) / (adv): astonishingly: (in a way that causes great surprise or wonder)
+English Meaning: a remarkably impressive or surprising achievement.
+Vietnamese Meaning: kỳ công đáng kinh ngạc, thành tựu đáng kinh ngạc
+Example Sentence: Landing a spacecraft on a comet was an astonishing feat of engineering.
+---
+Front: prodigious accomplishments
+Back:
+Pronunciation: (US: /prəˈdɪdʒəs əˈkɑːmplɪʃmənts/, UK: /prəˈdɪdʒəs əˈkʌmplɪʃmənts/)
+Form: phrase (adjective + noun)
+Word Family: (adj): prodigious: (extraordinary in size, amount, extent, degree, force, etc.) / (n): prodigy: (a person, especially a young one, endowed with exceptional qualities or abilities)
+English Meaning: extremely impressive achievements, often due to being remarkably great in extent, amount, or degree.
+Vietnamese Meaning: những thành tựu phi thường, những thành tựu to lớn
+Example Sentence: The young pianist's prodigious accomplishments at such a young age were truly remarkable.
+---
+Front: narrow AI
+Back:
+Pronunciation: (US: /ˈnæroʊ eɪ-aɪ/, UK: /ˈnærəʊ eɪ-aɪ/)
+Form: phrase (adjective + noun)
+Word Family: N/A (technical term)
+English Meaning: Artificial intelligence that is designed and trained for a specific task, excelling in that particular area but lacking general intelligence.
+Vietnamese Meaning: Trí tuệ nhân tạo hẹp, AI hẹp (loại AI được thiết kế và đào tạo cho một nhiệm vụ cụ thể)
+Example Sentence: Currently, most AI applications are narrow AI, focused on tasks like image recognition or language translation.
+---
+Front: artificial general intelligence (AGI)
+Back:
+Pronunciation: (US: /ˌɑːrtɪˈfɪʃəl ˈdʒenərəl ɪnˈtelɪdʒəns/, UK: /ˌɑːtɪˈfɪʃəl ˈdʒenərəl ɪnˈtelɪdʒəns/)
+Form: phrase (adjective + adjective + noun)
+Word Family: N/A (technical term)
+English Meaning: A hypothetical type of artificial intelligence with human-level general intelligence; capable of performing any intellectual task that a human being can.
+Vietnamese Meaning: Trí tuệ nhân tạo tổng quát (AGI), AI tổng quát (loại AI giả định có trí thông minh tổng quát ngang con người)
+Example Sentence: The development of artificial general intelligence remains a long-term goal for AI researchers.
+---
+Front: tackle
+Back:
+Pronunciation: (US: /ˈtækəl/, UK: /ˈtækəl/)
 Form: verb
-Word Family: (v): erect: (to build something) / (n): erection: (the act of building something) / (adj): erect: (straight and upright) / (adv): erectly: (in an erect manner)
-English Meaning: to build something; to put something up, especially a building or structure
-Vietnamese Meaning: xây dựng, dựng lên
-Example Sentence: The monument was erected over a period of 1,500 years.
+Word Family: (n): tackle: (equipment for a specific task) / (n): tackling
+English Meaning: to deal with or handle a problem or situation.
+Vietnamese Meaning: giải quyết, đối phó, xử lý
+Example Sentence: We need to tackle the issue of climate change before it's too late.
 ---
-Front: hoisted
+Front: physical constraints
 Back:
-Pronunciation: (US: /ˈhɔɪstɪd/, UK: /ˈhɔɪstɪd/)
-Form: verb (past participle of hoist)
-Word Family: (v): hoist: (to raise something heavy, often using ropes or a machine) / (n): hoist: (a piece of equipment used for lifting heavy things)
-English Meaning: raised or lifted something heavy, often with ropes or machinery
-Vietnamese Meaning: nâng lên, kéo lên (vật nặng)
-Example Sentence: It is thought that Stonehenge’s builders hoisted the bluestones into standing positions.
+Pronunciation: (US: /ˈfɪzɪkəl kənˈstreɪnts/, UK: /ˈfɪzɪkəl kənˈstreɪnts/)
+Form: phrase (adjective + noun)
+Word Family: (adj): physical: (relating to the body as opposed to the mind) / (v): constrain: (to severely restrict the scope, extent, or activity of) / (n): constraint: (a limitation or restriction)
+English Meaning: limitations or restrictions related to the physical body or physical laws.
+Vietnamese Meaning: những hạn chế về thể chất, những ràng buộc vật lý
+Example Sentence: Human intelligence is limited by physical constraints such as brain size and processing speed.
 ---
-Front: haul
+Front: biochemical processing speeds
 Back:
-Pronunciation: (US: /hɔːl/, UK: /hɔːl/)
+Pronunciation: (US: /ˌbaɪoʊˈkemɪkəl ˈprɑːsesɪŋ spiːdz/, UK: /ˌbaɪəʊˈkemɪkəl ˈprəʊsesɪŋ spiːdz/)
+Form: phrase (adjective + adjective + noun)
+Word Family: (adj): biochemical: (relating to the chemical processes and substances which occur within living organisms) / (v): process: (perform a series of mechanical or chemical operations on (something) in order to change or preserve it) / (n): processing: (a series of actions or steps taken in order to achieve a particular end) / (n): speed: (the rate at which someone or something moves or operates or is able to move or operate)
+English Meaning: the rate at which chemical processes occur within living organisms, especially in the context of brain function.
+Vietnamese Meaning: tốc độ xử lý sinh hóa (tốc độ các quá trình hóa học diễn ra trong cơ thể sống)
+Example Sentence: The brain's biochemical processing speeds are much slower compared to computer processors.
+---
+Front: handicaps
+Back:
+Pronunciation: (US: /ˈhændɪkæps/, UK: /ˈhændɪkæps/)
+Form: noun (plural)
+Word Family: (v): handicap: (to impede; disadvantage) / (adj): handicapped: (having a physical or mental disability)
+English Meaning: disadvantages or limitations that make progress or success difficult.
+Vietnamese Meaning: những bất lợi, những hạn chế, những trở ngại
+Example Sentence: Despite these handicaps, the human brain is capable of remarkable feats of intelligence.
+---
+Front: accelerate
+Back:
+Pronunciation: (US: /əkˈseləreɪt/, UK: /əkˈseləreɪt/)
 Form: verb
-Word Family: (v): haul: (to pull something heavy slowly and with difficulty) / (n): haul: (the act of pulling something heavy slowly and with difficulty) / (n): haul: (a large amount of something that has been stolen or won)
-English Meaning: to pull or drag something heavy with effort
-Vietnamese Meaning: kéo lê, lôi kéo (vật nặng)
-Example Sentence: How did prehistoric builders haul these boulders over such a great distance?
+Word Family: (n): acceleration: (increase in the rate or speed of something) / (adj): accelerated: (faster or quicker)
+English Meaning: to speed up or increase in rate or speed.
+Vietnamese Meaning: tăng tốc, đẩy nhanh, gia tốc
+Example Sentence: Progress in AI development could accelerate rapidly once machines can design smarter machines.
 ---
-Front: lug
+Front: worthwhile coexistence
 Back:
-Pronunciation: (US: /lʌɡ/, UK: /lʌɡ/)
-Form: verb
-Word Family: (v): lug: (to carry or drag something heavy with a lot of effort)
-English Meaning: to carry or drag something heavy or awkward with great effort
-Vietnamese Meaning: mang vác, kéo lê (vật nặng, cồng kềnh)
-Example Sentence: They fashioned sledges to lug the bluestones from the Preseli Hills.
+Pronunciation: (US: /ˌwɜːrθˈwaɪl koʊɪɡˈzɪstəns/, UK: /ˌwɜːθˈwaɪl kəʊɪɡˈzɪstəns/)
+Form: phrase (adjective + noun)
+Word Family: (adj): worthwhile: (worth the time, money, or effort spent; of value or importance) / (v): coexist: (exist at the same time or in the same place) / (n): coexistence: (the state or condition of living or existing together at the same time or in the same place)
+English Meaning: a state of living together peacefully and beneficially, where the relationship is valuable and rewarding.
+Vietnamese Meaning: sự chung sống có giá trị, sự cùng tồn tại đáng giá
+Example Sentence: We need to ensure a worthwhile coexistence with superintelligent AI, where both humans and machines benefit.
 ---
-Front: sceptical
+Front: disastrous consequences
 Back:
-Pronunciation: (US: /ˈskɛptɪkəl/, UK: /ˈskeptɪkl/)
-Form: adjective
-Word Family: (n): sceptic (US), skeptic (UK): (a person who questions whether something is true or genuine) / (n): scepticism (US), skepticism (UK): (an attitude of doubting that claims or statements are true or that something will happen) / (adv): sceptically (US), skeptically (UK): (in a doubting or questioning manner)
-English Meaning: having doubts that something is true or will happen
-Vietnamese Meaning: hoài nghi, nghi ngờ
-Example Sentence: Most archaeologists have remained sceptical about the glacier theory.
+Pronunciation: (US: /dɪˈzæstrəs ˈkɑːnsɪkwənsɪz/, UK: /dɪˈzæstrəs ˈkɒnsɪkwənsɪz/)
+Form: phrase (adjective + noun)
+Word Family: (adj): disastrous: (causing great damage) / (n): disaster: (a sudden event, such as an accident or a natural catastrophe, that causes great damage or suffering) / (n): consequence: (a result or effect of an action or condition)
+English Meaning: very bad or harmful results or outcomes.
+Vietnamese Meaning: hậu quả tai hại, hậu quả thảm khốc, hậu quả nghiêm trọng
+Example Sentence: Asking for the wrong thing can have disastrous consequences, as illustrated in folklore.
 ---
-Front: antiquarian
+Front: fallible natures
 Back:
-Pronunciation: (US: /ˌæntɪˈkwɛəriən/, UK: /ˌæntɪˈkweəriən/)
-Form: noun, adjective
-Word Family: (n): antiquarian: (a person who studies or collects antiques or things of the past) / (n): antiquarianism: (the study of or interest in antiquities)
-English Meaning: relating to or dealing in antiques or antiquities; a person who studies or collects antiques
-Vietnamese Meaning: nhà khảo cổ học nghiệp dư, người nghiên cứu đồ cổ; thuộc về đồ cổ
-Example Sentence: This theory was popularized by the antiquarian William Stukeley.
+Pronunciation: (US: /ˈfæləbəl ˈneɪtʃərz/, UK: /ˈfæləbəl ˈneɪtʃəz/)
+Form: phrase (adjective + noun)
+Word Family: (adj): fallible: (capable of making mistakes or being erroneous) / (n): fallibility: (the tendency to make mistakes or be wrong) / (n): nature: (the basic or inherent features of something, especially when seen as characteristic of it)
+English Meaning: the inherent human characteristic of being capable of making errors or being wrong.
+Vietnamese Meaning: bản chất dễ mắc sai lầm, bản tính hay sai sót
+Example Sentence: Humans, with our fallible natures, often make mistakes in judgment.
 ---
-Front: shadowy at best
+Front: cognitively superhuman
 Back:
-Pronunciation: (US: /ˈʃædoʊi ət bɛst/, UK: /ˈʃædəʊi ət best/)
-Form: phrase
-Word Family: N/A
-English Meaning: unclear, vague, or poorly defined, even in the most positive interpretation
-Vietnamese Meaning: mơ hồ, không rõ ràng, thậm chí trong trường hợp tốt nhất
-Example Sentence: The facts surrounding the architects of Stonehenge remain shadowy at best.
+Pronunciation: (US: /ˈkɑːɡnətɪvli ˌsuːpərˈhjuːmən/, UK: /ˈkɒɡnətɪvli ˌsuːpəˈhjuːmən/)
+Form: phrase (adverb + adjective)
+Word Family: (adj): cognitive: (relating to cognition; concerned with the act or process of knowing, perceiving, etc.) / (adj): superhuman: (having or showing exceptional ability or powers)
+English Meaning: having intellectual abilities far beyond those of a normal human being.
+Vietnamese Meaning: siêu phàm về nhận thức, vượt trội về trí tuệ so với con người
+Example Sentence: We want AI to be not just cognitively superhuman, but also ethically advanced.
 ---
-Front: consensus
+Front: moral high ground
 Back:
-Pronunciation: (US: /kənˈsɛnsəs/, UK: /kənˈsensəs/)
+Pronunciation: (US: /ˈmɔːrəl haɪ ɡraʊnd/, UK: /ˈmɒrəl haɪ ɡraʊnd/)
+Form: phrase (adjective + adjective + noun)
+Word Family: (adj): moral: (concerned with the principles of right and wrong behavior and the goodness or badness of human character) / (n): morality: (principles concerning the distinction between right and wrong or good and bad behavior) / (n): ground: (a basis or reason)
+English Meaning: a position of superior moral authority or righteousness.
+Vietnamese Meaning: vị thế đạo đức cao, lập trường đạo đức cao thượng
+Example Sentence: We hope that superintelligent machines will aim for the moral high ground in their actions.
+---
+Front: troughs
+Back:
+Pronunciation: (US: /trɔːfs/, UK: /trɒfs/)
+Form: noun (plural)
+Word Family: (n): trough: (a long, narrow open container for animals to eat or drink out of) / (n): trough: (a low point in something, especially a cycle or a graph)
+English Meaning: low points or valleys, used figuratively to represent morally low or undesirable states or behaviors.
+Vietnamese Meaning: đáy vực, điểm trũng (nghĩa bóng chỉ trạng thái hoặc hành vi thấp kém về đạo đức)
+Example Sentence: We don't want AI to operate in the moral troughs where humans sometimes find themselves.
+---
+Front: utopian vision
+Back:
+Pronunciation: (US: /juːˈtoʊpiən ˈvɪʒən/, UK: /juːˈtəʊpiən ˈvɪʒən/)
+Form: phrase (adjective + noun)
+Word Family: (adj): utopian: (modeled on or aiming for a state in which everything is perfect; idealistic) / (n): utopia: (an imagined place or state of things in which everything is perfect) / (n): vision: (the faculty or state of being able to see) / (n): vision: (the ability to think about or plan the future with imagination or wisdom)
+English Meaning: an idealistic and often unrealistic view of a perfect future society or state.
+Vietnamese Meaning: viễn cảnh утопия, tầm nhìn утопия (một tầm nhìn lý tưởng và thường không thực tế về một xã hội hoặc trạng thái tương lai hoàn hảo)
+Example Sentence: The idea of perfectly moral AI guiding humanity might seem like a utopian vision.
+---
+Front: sufficient clarity
+Back:
+Pronunciation: (US: /səˈfɪʃənt ˈklærəti/, UK: /səˈfɪʃənt ˈklærəti/)
+Form: phrase (adjective + noun)
+Word Family: (adj): sufficient: (enough; adequate) / (adj): sufficient: (competent or adequate) / (n): sufficiency: (the state of being sufficient or adequate) / (adj): clear: (easy to perceive, understand, or interpret) / (n): clarity: (the quality of being clear, in particular)
+English Meaning: enough clearness or distinctness to be easily understood.
+Vietnamese Meaning: sự rõ ràng đầy đủ, sự minh bạch đầy đủ
+Example Sentence: We need to define our goals with sufficient clarity for AI to understand what we want.
+---
+Front: tribal creatures
+Back:
+Pronunciation: (US: /ˈtraɪbəl ˈkriːtʃərz/, UK: /ˈtraɪbəl ˈkriːtʃəz/)
+Form: phrase (adjective + noun)
+Word Family: (adj): tribal: (of or relating to a tribe or tribes) / (n): tribe: (a social division in a traditional society consisting of families or communities linked by social, economic, religious, or blood ties, with a common culture and dialect, typically having a recognized leader) / (n): creature: (an animal, especially a nonhuman one) / (n): creature: (a person, especially one considered unpleasant or contemptible)
+English Meaning: beings who naturally form into tribes or groups, often prioritizing their own group over others.
+Vietnamese Meaning: những sinh vật bộ lạc, những sinh vật có tính bộ lạc (ám chỉ con người có xu hướng hình thành nhóm và ưu tiên nhóm của mình hơn)
+Example Sentence: Humans are often described as tribal creatures, prone to in-group bias.
+---
+Front: conflicted about the ideals
+Back:
+Pronunciation: (US: /kənˈflɪktɪd əˈbaʊt ðə aɪˈdiːəlz/, UK: /kənˈflɪktɪd əˈbaʊt ðə aɪˈdiːəlz/)
+Form: phrase (adjective + prepositional phrase)
+Word Family: (v): conflict: (be incompatible or at variance; clash) / (n): conflict: (a serious disagreement or argument, typically a protracted one) / (adj): conflicted: (having or showing confused or mutually inconsistent feelings) / (n): ideal: (a principle or standard of perfection that a person or group consistently tries to achieve) / (adj): ideal: (satisfying one's conception of what is perfect; most suitable)
+English Meaning: having mixed or opposing feelings or beliefs about principles of perfection or standards of excellence.
+Vietnamese Meaning: mâu thuẫn về lý tưởng, xung đột về các giá trị lý tưởng (có những cảm xúc hoặc niềm tin trái ngược nhau về các nguyên tắc hoàn hảo hoặc tiêu chuẩn xuất sắc)
+Example Sentence: Humans are often conflicted about the ideals they espouse, sometimes failing to live up to them.
+---
+Front: autonomy
+Back:
+Pronunciation: (US: /ɔːˈtɑːnəmi/, UK: /ɔːˈtɒnəmi/)
 Form: noun
-Word Family: (adj): consensual: (relating to or based on consent) / (adv): consensually: (in a way that is based on consent)
-English Meaning: general agreement among a group of people
-Vietnamese Meaning: sự đồng thuận, sự nhất trí
-Example Sentence: While there is consensus among scholars that Stonehenge was a burial ground.
+Word Family: (adj): autonomous: (having the freedom to govern itself or control its own affairs) / (adv): autonomously
+English Meaning: the capacity or right to self-governance; independence or freedom.
+Vietnamese Meaning: quyền tự chủ, sự tự trị, tính độc lập
+Example Sentence: The rise of AI raises questions about human autonomy in the future.
 ---
-Front: speculate
+Front: moral guides and gatekeepers
 Back:
-Pronunciation: (US: /ˈspɛkjəˌleɪt/, UK: /ˈspekjʊleɪt/)
-Form: verb
-Word Family: (n): speculation: (the forming of a theory or conjecture without firm evidence) / (adj): speculative: (based on conjecture rather than knowledge) / (adv): speculatively: (in a way that is based on conjecture or speculation)
-English Meaning: to form opinions or guesses about something without having much information or evidence
-Vietnamese Meaning: suy đoán, phỏng đoán
-Example Sentence: British archaeologists speculate that it was considered a place of healing.
+Pronunciation: (US: /ˈmɔːrəl ɡaɪdz ænd ˈɡeɪtkiːpərz/, UK: /ˈmɒrəl ɡaɪdz ænd ˈɡeɪtkiːpəz/)
+Form: phrase (adjective + noun + conjunction + noun)
+Word Family: (adj): moral: (concerned with the principles of right and wrong behavior) / (n): guide: (a person who advises or shows the way to others) / (n): gatekeeper: (a person or thing that controls access to something or someone)
+English Meaning: entities that provide moral direction and control access or decisions based on ethical considerations.
+Vietnamese Meaning: người hướng dẫn đạo đức và người gác cổng đạo đức (những thực thể cung cấp hướng dẫn về đạo đức và kiểm soát quyền truy cập hoặc quyết định dựa trên các cân nhắc về đạo đức)
+Example Sentence: If AI becomes our moral guides and gatekeepers, what will become of human agency?
+---
+Front: lapses we presently take for granted
+Back:
+Pronunciation: (US: /ˈlæpsɪz wiː ˈprezəntli teɪk fər ˈɡræntɪd/, UK: /ˈlæpsɪz wiː ˈprezəntli teɪk fə ˈɡrɑːntɪd/)
+Form: phrase (noun + relative clause)
+Word Family: (n): lapse: (a temporary failure of concentration, memory, or judgment) / (v): lapse: (expire; become invalid) / (adv): presently: (at the present time; now) / (v): grant: (agree to give or allow (something requested) to) / (adj): granted
+English Meaning: minor failures or deviations from ideal behavior that we currently accept as normal or inevitable.
+Vietnamese Meaning: những sai sót mà chúng ta hiện đang coi là đương nhiên, những lỗi lầm mà chúng ta hiện đang bỏ qua
+Example Sentence: We might lose the freedom to commit the small ethical lapses we presently take for granted.
+---
+Front: discriminate in favour of
+Back:
+Pronunciation: (US: /dɪˈskrɪmɪneɪt ɪn ˈfeɪvər əv/, UK: /dɪˈskrɪmɪneɪt ɪn ˈfeɪvər əv/)
+Form: phrase (verb phrase)
+Word Family: (v): discriminate: (make an unjust or prejudicial distinction in the treatment of different categories of people or things, especially on the grounds of race, sex, or age) / (n): discrimination: (the unjust or prejudicial treatment of different categories of people or things, especially on the grounds of race, sex, or age) / (adj): discriminatory
+English Meaning: to treat someone or a group of people more favorably than others, often unfairly.
+Vietnamese Meaning: phân biệt đối xử có lợi cho, thiên vị, ưu ái
+Example Sentence: Humans often discriminate in favour of their own communities, sometimes unconsciously.
+---
+Front: silicon police
+Back:
+Pronunciation: (US: /ˈsɪlɪkən pəˈliːs/, UK: /ˈsɪlɪkən pəˈliːs/)
+Form: phrase (adjective + noun)
+Word Family: (n): silicon: (a chemical element) / (n): police: (the civil force of a state, charged with preserving public order and enforcing the law) / (v): police: (control, regulate, or keep in order with the police)
+English Meaning: a figurative term for AI systems acting as ethical enforcers or regulators, made of silicon computer chips.
+Vietnamese Meaning: cảnh sát silicon (thuật ngữ ẩn dụ chỉ các hệ thống AI hoạt động như người thực thi hoặc điều chỉnh đạo đức, được làm từ chip máy tính silicon)
+Example Sentence: Are we ready for ethical silicon police limiting our personal choices?
+---
+Front: far-fetched
+Back:
+Pronunciation: (US: /ˌfɑːrˈfetʃt/, UK: /ˌfɑːˈfetʃt/)
+Form: adjective
+Word Family: N/A
+English Meaning: improbable and unconvincing; unlikely to be true or happen.
+Vietnamese Meaning: gượng gạo, khó tin, xa vời, viển vông
+Example Sentence: These issues about AI ethics might seem far-fetched now, but they are becoming increasingly relevant.
+---
+Front: input into
+Back:
+Pronunciation: (US: /ˈɪnpʊt ˈɪntuː/, UK: /ˈɪnpʊt ˈɪntuː/)
+Form: phrase (noun + preposition)
+Word Family: (v): input: (put (data) into a computer or mechanical device) / (n): input: (what is put in, taken in, or operated on by any process or system)
+English Meaning: contribution or influence on something.
+Vietnamese Meaning: đầu vào cho, sự đóng góp vào, sự ảnh hưởng đến
+Example Sentence: AI already has some input into resource allocation in the National Health Service.
+---
+Front: depriving some humans of control
+Back:
+Pronunciation: (US: /dɪˈpraɪvɪŋ sʌm ˈhjuːməns əv kənˈtroʊl/, UK: /dɪˈpraɪvɪŋ sʌm ˈhjuːməns əv kənˈtrəʊl/)
+Form: phrase (verb -ing form + noun + preposition + noun)
+Word Family: (v): deprive: (prevent (a person or place) from having or using something) / (n): deprivation: (the damaging lack of material benefits considered to be basic necessities in a society) / (n): control: (the power to influence or direct people's behavior or the course of events) / (v): control: (determine the behavior or supervise the running of)
+English Meaning: taking away power or authority from certain individuals.
+Vietnamese Meaning: tước đoạt quyền kiểm soát của một số người, lấy đi sự kiểm soát của một số người
+Example Sentence: Giving AI a greater role in healthcare might mean depriving senior doctors of some control.
+---
+Front: cooperative spirit
+Back:
+Pronunciation: (US: /koʊˈɑːpərətɪv ˈspɪrɪt/, UK: /kəʊˈɒpərətɪv ˈspɪrɪt/)
+Form: phrase (adjective + noun)
+Word Family: (adj): cooperative: (involving mutual assistance in working toward a common goal) / (v): cooperate: (work jointly toward the same end) / (n): cooperation: (the process of working together to the same end) / (n): spirit: (the nonphysical part of a person or animal; the soul) / (n): spirit: (enthusiasm, energy, or liveliness)
+English Meaning: a willingness to work together and collaborate for a common purpose.
+Vietnamese Meaning: tinh thần hợp tác, tinh thần cộng tác
+Example Sentence: Solving the challenges of AI safety will require a cooperative spirit among researchers and policymakers.
+---
+Front: set aside self-interest
+Back:
+Pronunciation: (US: /set əˈsaɪd self ˈɪntrəst/, UK: /set əˈsaɪd self ˈɪntrəst/)
+Form: phrase (verb phrase)
+Word Family: (v): set aside: (save or keep for later use) / (n): self-interest: (one's own advantage or benefit)
+English Meaning: to disregard or ignore one's own personal advantages or benefits for the sake of a greater good or common goal.
+Vietnamese Meaning: gạt bỏ lợi ích cá nhân, đặt lợi ích cá nhân sang một bên
+Example Sentence: We need to set aside self-interest to ensure the safe development of AI for all humanity.
+---
+Front: moral reasoning
+Back:
+Pronunciation: (US: /ˈmɔːrəl ˈriːzənɪŋ/, UK: /ˈmɒrəl ˈriːzənɪŋ/)
+Form: phrase (adjective + noun)
+Word Family: (adj): moral: (concerned with the principles of right and wrong behavior) / (n): morality: (principles concerning the distinction between right and wrong or good and bad behavior) / (v): reason: (think, understand, and form judgments by a process of logic) / (n): reasoning: (the process of thinking about something in a logical way in order to form a judgment or conclusion)
+English Meaning: the process of thinking about and making judgments based on moral principles and values.
+Vietnamese Meaning: lập luận đạo đức, lý luận đạo đức (quá trình suy nghĩ và đưa ra phán xét dựa trên các nguyên tắc và giá trị đạo đức)
+Example Sentence: Moral reasoning is often considered a uniquely human capacity, but AI may soon surpass us in this area.
+---
+Front: uniquely human capacities
+Back:
+Pronunciation: (US: /juːˈniːkli ˈhjuːmən kəˈpæsətiz/, UK: /juːˈniːkli ˈhjuːmən kəˈpæsətiz/)
+Form: phrase (adverb + adjective + noun)
+Word Family: (adv): uniquely: (in a way that is unlike anything else; solely) / (adj): unique: (being the only one of its kind; unlike anything else) / (adj): human: (relating to or characteristic of humankind; humane) / (n): capacity: (the ability or power to do, experience, or understand something)
+English Meaning: abilities or qualities that are considered to be exclusive to human beings and not found in other creatures or machines (until recently).
+Vietnamese Meaning: những năng lực độc đáo của con người, những khả năng chỉ có ở con người
+Example Sentence: Both general intelligence and moral reasoning were once thought to be uniquely human capacities.
+---
+Front: moral authority
+Back:
+Pronunciation: (US: /ˈmɔːrəl ɔːˈθɑːrəti/, UK: /ˈmɒrəl ɔːˈθɒrəti/)
+Form: phrase (adjective + noun)
+Word Family: (adj): moral: (concerned with the principles of right and wrong behavior) / (n): morality: (principles concerning the distinction between right and wrong or good and bad behavior) / (n): authority: (the power or right to give orders, make decisions, and enforce obedience) / (adj): authoritative
+English Meaning: the power or right to give moral guidance and make decisions based on ethical principles.
+Vietnamese Meaning: quyền lực đạo đức, thẩm quyền đạo đức
+Example Sentence: Safety may require that we give machines not only intelligence but also moral authority.
 ---

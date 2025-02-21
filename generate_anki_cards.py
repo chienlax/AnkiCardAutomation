@@ -81,7 +81,7 @@ def add_note_to_anki(deck_name, model_name, fields, tags):
     # Modified line: Wrap the entire 'note' dictionary inside 'params'
     return anki_connect_request('addNote', params={'note': note}) # Wrap 'note' in a dictionary with key 'note'
 
-def generate_anki_cards_from_file_anki_connect(input_file_path, deck_name="IELTS Cambridge"):
+def generate_anki_cards_from_file_anki_connect(input_file_path, deck_name="IELTS Cambridge", card_label=None): # Added card_label    
     """
     Generates Anki flashcards from a formatted text file and imports them into Anki using AnkiConnect.
     """
@@ -116,33 +116,15 @@ def generate_anki_cards_from_file_anki_connect(input_file_path, deck_name="IELTS
         return False
 
     # --- Label Handling ---
-    existing_labels = get_tags() or [] # Get existing tags, default to empty list if error
-    print("\n--- Available Labels ---")
-    for i, label in enumerate(existing_labels):
-        print(f"{i+1}. {label}")
-    print(f"{len(existing_labels) + 1}. New label")
-    print("----------------------")
+    # No more label prompting in terminal, using card_label argument instead
 
-    while True:
-        choice = input(f"Choose a label for these cards (1-{len(existing_labels) + 1}): ")
-        try:
-            choice_index = int(choice)
-            if 1 <= choice_index <= len(existing_labels):
-                selected_label = existing_labels[choice_index - 1]
-                break
-            elif choice_index == len(existing_labels) + 1:
-                selected_label = input("Enter new label name: ").strip()
-                if not selected_label:
-                    print("Label name cannot be empty. Please try again.")
-                    continue
-                break
-            else:
-                print("Invalid choice. Please enter a number from the list.")
-        except ValueError:
-            print("Invalid input. Please enter a number.")
+    label_to_add = card_label # Use the card_label argument directly
 
-    print(f"Selected label: '{selected_label}'")
-    label_to_add = selected_label
+    if not label_to_add: # If card_label is None or empty, default to "IELTS Cambridge Cards" or handle as needed
+        label_to_add = "IELTS Cambridge Cards" # Default label if none provided
+        print(f"Warning: No label provided, using default label: '{label_to_add}'")
+    else:
+        print(f"Using label from web UI: '{label_to_add}'")
 
     # --- Card Creation and Import using AnkiConnect ---
     print("\nCreating and importing Anki cards using AnkiConnect...")

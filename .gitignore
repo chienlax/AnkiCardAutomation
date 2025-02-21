@@ -1,0 +1,10 @@
+# PyInstaller build folders
+build/
+dist/
+
+# Python bytecode cache folders
+__pycache__/
+
+# Optional: Python virtual environment folder (if you are using one)
+venv_anki_cards/
+venv/

@@ -5,7 +5,7 @@ from api_connect import setup_gemini_api  # Assuming api_connect.py is in the sa
 from input_processing import analyze_ielts_passage, format_gemini_output_to_anki_v6 # Assuming input_processing.py is in the same directory
 from generate_anki_cards import generate_anki_cards_from_file_anki_connect # Assuming generate_anki_cards.py is in the same directory
 
-def process_ielts_passage_and_create_anki_cards(ielts_passage_text, output_file="anki_cards_output.txt", deck_name="IELTS Cambridge"):
+def process_ielts_passage_and_create_anki_cards(ielts_passage_text, output_file="anki_cards_output.txt", deck_name="IELTS Cambridge", card_label=None): # Added card_label argument
     """
     Orchestrates the process of analyzing an IELTS passage, formatting Anki cards,
     and importing them into Anki.
@@ -47,7 +47,7 @@ def process_ielts_passage_and_create_anki_cards(ielts_passage_text, output_file=
 
     # 4. Generate Anki cards from the text file and import into Anki
     print("Generating Anki cards and Importing into Anki...")
-    if not generate_anki_cards_from_file_anki_connect(output_file, deck_name):
+    if not generate_anki_cards_from_file_anki_connect(output_file, deck_name, card_label=card_label): # Pass card_label here
         print("Anki card generation and import failed. Check errors from generate_anki_cards.py.")
         return False
     print(f"Anki card generation and import into deck '{deck_name}' successful!")
@@ -63,7 +63,9 @@ if __name__ == "__main__":
     """
     deck_name_to_use = "IELTS Cambridge - Web App Test" # Example deck name for testing
 
-    if process_ielts_passage_and_create_anki_cards(example_passage, deck_name=deck_name_to_use):
+    label_for_test_cards = "Command Line Test Label" # Example label for command-line testing
+
+    if process_ielts_passage_and_create_anki_cards(example_passage, deck_name=deck_name_to_use, card_label=label_for_test_cards): # Pass card_label here in test call
         print("\nExample passage processed and Anki cards imported successfully (using main.py directly)!")
     else:
         print("\nExample passage processing or Anki card import failed (using main.py directly). Check error messages above.")
